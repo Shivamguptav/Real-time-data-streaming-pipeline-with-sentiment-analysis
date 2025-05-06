@@ -39,11 +39,4 @@ This project demonstrates an end-to-end real-time data pipeline designed to perf
 - Ingesting and indexing data into Elasticsearch and creating real-time visualizations in Kibana.
 - Working with Kafka connectors (Source & Sink).
 
-## Getting Started
-- To get started, clone this repository and follow the detailed steps in the notebooks and configuration files provided.
 
-```git bash git clone git clone https://github.com/akarce/real-time-data-pipeline-kafka-mongo-elasticsearch-pyspark.git```
-
-For a detailed guide and hands-on example, watch the video here: \
-[Building a Real-Time Data Streaming Pipeline | End to End Project with Kafka Spark and Elasticsearch
-](https://youtu.be/RQ7nnobb1N0)
