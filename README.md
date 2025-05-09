@@ -39,4 +39,4 @@ This project demonstrates an end-to-end real-time data pipeline designed to perf
 - Ingesting and indexing data into Elasticsearch and creating real-time visualizations in Kibana.
 - Working with Kafka connectors (Source & Sink).
 
-
+Yelp Dataset: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
